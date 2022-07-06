@@ -13,7 +13,7 @@
 + Go to **Action> Select Workflow> Run RDP (choose one)**
 + Click **Run Workflow**
 + Click **Build**
-+ Done, Enter Your RDP Account And Enjoy...
++ Done. (heroku bilek :v)
 
 <!-- 
 
